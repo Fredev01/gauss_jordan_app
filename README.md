@@ -25,7 +25,7 @@ Aplicación gráfica para resolver sistemas de ecuaciones lineales 4x4 utilizand
 ### 1. Clonar repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/gauss_jordan_app.git
+git clone https://github.com/Fredev01/gauss_jordan_app.git
 cd gauss_jordan_app
 ```
 
